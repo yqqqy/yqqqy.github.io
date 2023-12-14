@@ -23,8 +23,9 @@ I am a Ph.D. student majoring in **CS** at [Shandong University of Science and T
 
 ## Publictions
 ### Journals:
-- **Qingyong Yang**, Shu-Chuan Chu, Jeng-Shyang Pan, Jyh-Horng Chou, Junzo Watada, "Dynamic multi-strategy integrated differential evolution algorithm based on reinforcement learning for optimization problems", _Complex & Intelligent Systems_, 2023, DOI:10.1007/s40747-023-01243-9. (**SCI Q2, 中科院二区，IF=5.8**) [[Paper]](https://link.springer.com/article/10.1007/s40747-023-01243-9) [[Code]](https://github.com/yqqqy/RLDMDE)
-
+- **Qingyong Yang**, Shu-Chuan Chu, Jeng-Shyang Pan, Jyh-Horng Chou, Junzo Watada, "Dynamic multi-strategy integrated differential evolution algorithm based on reinforcement learning for optimization problems", _Complex & Intelligent Systems_, 2023, DOI:10.1007/s40747-023-01243-9. (**SCI Q2, 中科院二区, IF=5.8**) [[Paper]](https://link.springer.com/article/10.1007/s40747-023-01243-9) [[Code]](https://github.com/yqqqy/RLDMDE)
+- Jeng-Shyang Pan, **Qingyong Yang**, Jyh-Horng Chou, Chia-Cheng Hu, Shu-Chuan Chu, "FPGA Implementation of QUasi-Affine TRansformation Evolutionary Algorithm", _Knowledge-Based Systems_, 2023, DOI:10.1016/j.knosys.2023.110774. (**SCI Q1, 中科院一区, IF=8.8**) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005245)
+- 
 <br>
 
 ---
