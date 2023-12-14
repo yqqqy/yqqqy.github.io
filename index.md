@@ -8,19 +8,15 @@ layout: page
 
 Here is **Qingyong Yang (杨清勇)**.
 
-I am a Ph.D student majoring in **CS** at [Shandong University of Science and Technology](https://www.sdust.edu.cn/), advised by [Prof. Jeng-Shyang Pan](https://scholar.google.com/citations?user=ctW_qxQAAAAJ&hl=zh-CN). My research interest includes Evolutionary Computation, Swarm Intelligence, Mobile Edge Computing, and Smart City. 
+I am a Ph.D. student majoring in **CS** at [Shandong University of Science and Technology](https://www.sdust.edu.cn/), advised by [Prof. Jeng-Shyang Pan](https://scholar.google.com/citations?user=ctW_qxQAAAAJ&hl=zh-CN). My research interest includes Evolutionary Computation, Swarm Intelligence, Mobile Edge Computing, and Smart City. 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
-
+- **Sep 2016 - June 2020:** B.S. at [College of Computer Science and Engineering](https://cise.sdust.edu.cn/), [Shandong University of Science and Technology](https://www.sdust.edu.cn/).
+- **Sep 2020 - June 2022:** M.S. at [College of Computer Science and Engineering](https://cise.sdust.edu.cn/), [Shandong University of Science and Technology](https://www.sdust.edu.cn/), advised by [Prof. Jeng-Shyang Pan](https://scholar.google.com/citations?user=ctW_qxQAAAAJ&hl=zh-CN).
+- **Sep 2022 - Now:** Ph.D. at [College of Computer Science and Engineering](https://cise.sdust.edu.cn/), [Shandong University of Science and Technology](https://www.sdust.edu.cn/), advised by [Prof. Jeng-Shyang Pan](https://scholar.google.com/citations?user=ctW_qxQAAAAJ&hl=zh-CN).
 <br>
 
 ---
