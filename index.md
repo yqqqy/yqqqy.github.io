@@ -8,9 +8,7 @@ layout: page
 
 Here is **Qingyong Yang (杨清勇)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I am a Ph.D student majoring in **CS** at [Shandong University of Science and Technology](https://www.sdust.edu.cn/), advised by [Prof. Jeng-Shyang Pan](https://scholar.google.com/citations?user=ctW_qxQAAAAJ&hl=zh-CN). My research interest includes Evolutionary Computation, Swarm Intelligence, Mobile Edge Computing, and Smart City. 
 
 <br>
 
