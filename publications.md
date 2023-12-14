@@ -4,38 +4,25 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
-
-## Conference Paper
-
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
-
-## Journal Paper
-
-- Coming soon... 🚀
-
-  <br>
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+### Journals:
+- **Qingyong Yang**, Shu-Chuan Chu, Jeng-Shyang Pan, Jyh-Horng Chou, Junzo Watada. "Dynamic multi-strategy integrated differential evolution algorithm based on reinforcement learning for optimization problems", _Complex & Intelligent Systems_, 2023, DOI:10.1007/s40747-023-01243-9. (**SCI Q2, 中科院二区, IF=5.8**) [[Paper]](https://link.springer.com/article/10.1007/s40747-023-01243-9) [[Code]](https://github.com/yqqqy/RLDMDE)
+- Jeng-Shyang Pan, **Qingyong Yang**, Jyh-Horng Chou, Chia-Cheng Hu, Shu-Chuan Chu. "FPGA Implementation of QUasi-Affine TRansformation Evolutionary Algorithm", _Knowledge-Based Systems(**KBS**)_, 2023, DOI:10.1016/j.knosys.2023.110774. (**SCI Q1, 中科院一区, IF=8.8**) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005245)
+- **Qingyong Yang**, Shu-Chuan Chu, Chia-Cheng Hu, Lingping Kong, Jeng-Shyang Pan. "A Task Offloading Method Based on User Satisfaction in C-RAN with Mobile Edge Computing", _IEEE Transactions on Mobile Computing(**TMC**)_, 2023, DOI:10.1109/TMC.2023.3275580. (**CCF-A, SCI Q2, 中科院二区, IF=7.9**) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10124037)
+- Yu-Chung Huang, **Qingyong Yang**, Yu-Chun Huang, Jeng-Shyang Pan. "Optimization of Water Distribution Network Design Using Rafflesia Optimization Algorithm Based on Opposition-based Learning", _Journal of Internet Technology(JIT)_, 2023, DOI:10.53106/160792642023092405006. (**SCI Q4, 中科院四区, IF=1.6**) [[Paper]](https://jit.ndhu.edu.tw/article/view/2957)
+- Jeng-Shyang Pan, **Qingyong Yang**, Chin-Shiuh Shieh, Shu-Chuan Chu. "Tumbleweed optimization algorithm and its application in vehicle path planning in smart city", _Journal of Internet Technology(JIT)_, 2022, DOI:10.53106/160792642022092305002
+. (**SCI Q4, 中科院四区, IF=1.6**) [[Paper]](https://jit.ndhu.edu.tw/article/view/2754)
+- **Qingyong Yang**, Shu-Chuan Chu, Chia-Cheng Hu, Jimmy Ming-Tai Wu, Jeng-Shyang Pan. "Fish Migration Optimization with Dynamic Grouping Strategy for Solving Job-Shop Scheduling Problem". _Journal of Internet Technology(JIT)_, 2022, DOI:10.53106/160792642022112306010. (**SCI Q4, 中科院四区, IF=1.6**) [[Paper]](https://jit.ndhu.edu.tw/article/view/2787)
+- Jeng-Shyang Pan, **Qing-yong Yang**, Shu-Chuan Chu, Kuo-Chi Chang. "Compact Sine Cosine Algorithm applied in vehicle routing problem with time window", _Telecommunication Systems_, 2021, DOI:10.1007/s11235-021-00833-7. (**SCI Q3, 中科院四区, IF=2.5**) [[Paper]](https://link.springer.com/article/10.1007/s11235-021-00833-7)
+- **Qingyong Yang**, Shu-Chuan Chu, Jeng-Shyang Pan, Chien-Ming Chen. "Sine cosine algorithm with multigroup and multistrategy for solving CVRP", _Mathematical Problems in Engineering_, 2020, DOI:10.1155/2020/8184254. (**中科院四区**) [[Paper]](https://www.hindawi.com/journals/mpe/2020/8184254/)
+- Jeng-Shyang Pan, Pei-Cheng Song, **Qing-Yong Yang**, Lyu-Chao Liao. "FPGA Implementation of Binary Edwards Curve Point Addition", _Journal of Network Intelligence(JNI)_, 2021. (**EI**) [[Paper]](https://bit.nkust.edu.tw/~jni/2021/vol6/s1/10-v6n1.pdf)
+### Conferences
+- **Qing-yong Yang**, Shu-Chuan Chu, Anhui Liang, Jeng-Shyang Pan. "Tumbleweed algorithm and its application for solving location problem of logistics distribution center", _Proceedings of the Fourteenth International Conference on Genetic and Evolutionary Computing(ICGEC)_, 2021. (**EI**) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-16-8430-2_58)
+- **Qing-Yong Yang**, Shu-Chuan Chu, Chien-Ming Chen, Jeng-Shyang Pan. "QUasi-Affine TRansformation Evolution (QUATRE) Algorithm for Job-Shop Scheduling Problem by Mixing Different Strategies", _Proceedings of VTCA 2021_, 2021. (**EI**) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-16-4039-1_16)
+### Others
+- Qingwei Liang, Shu-Chuan Chu, **Qingyong Yang**, Anhui Liang, Jeng-Shyang Pan. "Multi-group gorilla troops optimizer with multi-strategies for 3D node localization of wireless sensor networks", _Sensors_, 2022, DOI:10.3390/s22114275. (**SCI Q2, 中科院三区, IF=3.9**) [[Paper]](https://www.mdpi.com/1424-8220/22/11/4275)
+- Xing Wang, Jeng-Shyang Pan, **Qingyong Yang**, Lingping Kong, Václav Snášel, Shu-Chuan Chu. "Modified mayfly algorithm for UAV path planning", _Drones_, 2022, DOI:10.3390/drones6050134. (**SCI Q2, 中科院二区, IF=4.8**) [[Paper]](https://www.mdpi.com/2504-446X/6/5/134)
+- Fang Fan, Shu-Chuan Chu, Jeng-Shyang Pan, **Qingyong Yang**, Huiqi Zhao. "Parallel sine cosine algorithm for the dynamic deployment in wireless sensor networks", _Journal of Internet Technology(JIT)_, 2021, DOI:10.3966/160792642021052203001. (**SCI Q4, 中科院四区, IF=1.6**) [[Paper]](https://jit.ndhu.edu.tw/article/view/2508)
+- Minghui Zhu, Shu-Chuan Chu, **Qingyong Yang**, Wei Li, Jeng-Shyang Pan. "Compact sine cosine algorithm with multigroup and multistrategy for dispatching system of public transit vehicles", _Journal of Advanced Transportation_, 2021, DOI:10.1155/2021/5526127. (**SCI Q3, 中科院四区, IF=2.3**) [[Paper]](https://www.hindawi.com/journals/jat/2021/5526127/)
+<br>
 
   <br>
