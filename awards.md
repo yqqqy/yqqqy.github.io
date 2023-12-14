@@ -4,50 +4,43 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
-## Scholarships
-
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
-
-## Competitions
-
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
-
-## Honors
-
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
-
 ## Services
+### Reviewer:
+- Complex & Intelligent Systems
+- IEEE Internet of Things Journal (IOTJ)
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+### Volunteer service:
+- 2018年带队前往临沂市郯城县参加大学生暑期"三下乡"社会实践活动，对"新旧动能转化下，农村电商发展现状"进行调研。调研实践报告被评为山东科技大学社会实践活动优秀调研报告二等奖，团队也被评为社会实践活动优秀团队。
+---
+
+## Awards
+### Competitions:
+- 2023, 山东科技大学研究生创新成果奖 (**1/3**).
+- 2021, 第十届全国海洋航行器设计与制作大赛省级二等奖 (**2/3**).
+- 2021, “东方国信杯”高校大数据开发大赛二等奖 (**3/3**).
+- 2019, 第十届蓝桥杯全国软件和信息技术专业人才大赛山东赛区Java软件开发大学B组一等奖 (**1/1**).
+- 2018, 全国大学生数学建模竞赛山东赛区二等奖 (**1/3**).
+- 2018, "“唯众杯”物联网创新应用大赛"三等奖 (**1/3**).
+- 2018, 中国高校计算机大赛微信小程序应用开发赛(华东赛区)三等奖 (**3/3**).
+- 2018, 亚太地区大学生数学建模竞赛二等奖 (**1/3**).
+- 2018, MathorCup高校数学建模挑战赛三等奖 (**1/3**).
+- 2018, 全国大学生FPGA创新设计邀请赛(作品名称：基于FPGA和深度学习的智能收银系统) (**2/3**).
+- 2017, 第十届"认证杯"数学中国数学建模网络挑战赛全国比赛第一阶段三等奖 (**1/3**).
+
+### Honor:
+- 2023, 山东科技大学优秀研究生
+- 2021, 山东科技大学优秀研究生
+- 2020, 山东科技大学优秀毕业生
+- 2020, 山东科技大学优秀学生标兵
+- 2019, 山东科技大学优秀学生标兵
+- 2018, 山东科技大学学生科技创新拔尖人才
+- 2018, 山东科技大学三好学生
+- 2018, 山东科技大学2018年大学生暑期"三下乡"社会实践活动优秀学生
+- 2018, 山东省大中专学生志愿者暑期"三下乡"社会实践活动优秀学生
+- 2017, 山东科技大学优秀学生标兵
+
+### Scholarship:
+- 2020~2023, 山东科技大学学业一等奖学金 (四次).
+- 2019, 国家励志奖学金
+- 2016~2020, 山东科技大学奖学金 (一等四次, 二等三次).
+

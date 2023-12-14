@@ -20,12 +20,6 @@ I am a Ph.D. student majoring in **CS** at [Shandong University of Science and T
 <br>
 
 ---
-## Services
-### Reviewer:
-- Complex & Intelligent Systems
-- IEEE Internet of Things Journal (IOTJ)
-
----
 
 ## Publictions
 ### Journals:
@@ -52,14 +46,45 @@ I am a Ph.D. student majoring in **CS** at [Shandong University of Science and T
 <br>
 
 ---
+## Services
+### Reviewer:
+- Complex & Intelligent Systems
+- IEEE Internet of Things Journal (IOTJ)
 
-## News and Updates
+### Volunteer service:
+- 2018年带队前往临沂市郯城县参加大学生暑期"三下乡"社会实践活动，对"新旧动能转化下，农村电商发展现状"进行调研。调研实践报告被评为山东科技大学社会实践活动优秀调研报告二等奖，团队也被评为社会实践活动优秀团队。
+---
 
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+## Awards
+### Competitions:
+- 2023, 山东科技大学研究生创新成果奖 (**1/3**).
+- 2021, 第十届全国海洋航行器设计与制作大赛省级二等奖 (**2/3**).
+- 2021, “东方国信杯”高校大数据开发大赛二等奖 (**3/3**).
+- 2019, 第十届蓝桥杯全国软件和信息技术专业人才大赛山东赛区Java软件开发大学B组一等奖 (**1/1**).
+- 2018, 全国大学生数学建模竞赛山东赛区二等奖 (**1/3**).
+- 2018, "“唯众杯”物联网创新应用大赛"三等奖 (**1/3**).
+- 2018, 中国高校计算机大赛微信小程序应用开发赛(华东赛区)三等奖 (**3/3**).
+- 2018, 亚太地区大学生数学建模竞赛二等奖 (**1/3**).
+- 2018, MathorCup高校数学建模挑战赛三等奖 (**1/3**).
+- 2018, 全国大学生FPGA创新设计邀请赛(作品名称：基于FPGA和深度学习的智能收银系统) (**2/3**).
+- 2017, 第十届"认证杯"数学中国数学建模网络挑战赛全国比赛第一阶段三等奖 (**1/3**).
+
+### Honor:
+- 2023, 山东科技大学优秀研究生
+- 2021, 山东科技大学优秀研究生
+- 2020, 山东科技大学优秀毕业生
+- 2020, 山东科技大学优秀学生标兵
+- 2019, 山东科技大学优秀学生标兵
+- 2018, 山东科技大学学生科技创新拔尖人才
+- 2018, 山东科技大学三好学生
+- 2018, 山东科技大学2018年大学生暑期"三下乡"社会实践活动优秀学生
+- 2018, 山东省大中专学生志愿者暑期"三下乡"社会实践活动优秀学生
+- 2017, 山东科技大学优秀学生标兵
+
+### Scholarship:
+- 2020~2023, 山东科技大学学业一等奖学金 (四次).
+- 2019, 国家励志奖学金
+- 2016~2020, 山东科技大学奖学金 (一等四次, 二等三次).
 
 <br>
 
