@@ -15,13 +15,6 @@ owner:
   github: yqqqy
   scholar: https://scholar.google.com/citations?user=temEw24AAAAJ&hl=zh-CN
   researchgate: https://www.researchgate.net/profile/Qingyong-Yang
-  # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -39,16 +32,7 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  # - title: Teams
-  #   url: /teams/
-  # - title: Hobbies
-  #   url: /hobbies/
-  # # - title: Notes
-  #   # url: /notes/
-  # - title: Blogs
-  #   url: /blogs/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
 highlighter: rouge
