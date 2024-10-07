@@ -5,6 +5,7 @@ title: Publications
 ---
 
 ## Journals:
+- Jeng-Shyang Pan, **Qingyong Yang**, Shu-Chuan Chu, Han-Chieh Chao, "A Joint Edge Server and Service Deployment Method in C-RAN with Multi-Layer MEC for Multi-Communities", _IEEE Internet of Things Journal_, 2024, DOI:10.1109/JIOT.2024.3471817. (**SCI Q1, 中科院一区, IF=8.2**) [[Paper]](https://ieeexplore.ieee.org/document/10701000)
 - **Qingyong Yang**, Shu-Chuan Chu, Jeng-Shyang Pan, Jyh-Horng Chou, Junzo Watada. "Dynamic multi-strategy integrated differential evolution algorithm based on reinforcement learning for optimization problems", _Complex & Intelligent Systems_, 2023, DOI:10.1007/s40747-023-01243-9. (**SCI Q2, 中科院二区, IF=5.8**) [[Paper]](https://link.springer.com/article/10.1007/s40747-023-01243-9) [[Code]](https://github.com/yqqqy/RLDMDE)
 - Jeng-Shyang Pan, **Qingyong Yang**, Jyh-Horng Chou, Chia-Cheng Hu, Shu-Chuan Chu. "FPGA Implementation of QUasi-Affine TRansformation Evolutionary Algorithm", _Knowledge-Based Systems(**KBS**)_, 2023, DOI:10.1016/j.knosys.2023.110774. (**SCI Q1, 中科院一区, IF=8.8**) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005245)
 - **Qingyong Yang**, Shu-Chuan Chu, Chia-Cheng Hu, Lingping Kong, Jeng-Shyang Pan. "A Task Offloading Method Based on User Satisfaction in C-RAN with Mobile Edge Computing", _IEEE Transactions on Mobile Computing(**TMC**)_, 2023, DOI:10.1109/TMC.2023.3275580. (**CCF-A, SCI Q1, 中科院二区, IF=7.9**) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10124037)
